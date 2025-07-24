@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: "Hypatia of Alexandria"
-subtitle: Astronomer, Philosopher, Mathematician
-share-title: "Hypatia of Alexandria - Home"
-share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
+title: "Sofia Vasieva"
+subtitle: Astrophysics and music
+share-title: "Sofia Vasieva - Home"
+share-description: "Astrophysics student and musical artist"
 support-promo-box: true
 cover-img:
-    - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
+    - "assets/images/M51.jpg"
 ---
 
 # About me
